@@ -1,0 +1,1 @@
+All the code should be in NN_updated. backup_NN is just is the main NN be for organizing it. in case i miss something.
