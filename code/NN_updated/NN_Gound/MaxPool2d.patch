@@ -1,0 +1,10 @@
+--- /usr/local/lib/python3.5/dist-packages/torch/nn/modules/pooling.py
++++ /usr/local/lib/python3.5/dist-packages/torch/nn/modules/pooling.py
+@@ -57,6 +57,7 @@
+         https://github.com/vdumoulin/conv_arithmetic/blob/master/README.md
+     """
+ 
++    @weak_script_method
+     def forward(self, input):
+         return F.max_pool2d(input, self.kernel_size, self.stride,
+                             self.padding, self.dilation, self.ceil_mode,
