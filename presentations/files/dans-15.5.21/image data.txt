@@ -1,0 +1,10 @@
+PPGb4/PPGafter/PPG_STFT - are from user 1_70_127
+STFT_TO_LOAD - is 99_95_143 _color
+FPS_to_big - is the 109_66_123 _color. and the FPS of the video is to big for the old video2PPG algoritem (240FPS)
+mimic_seple - is a good mimic image
+les_noise -  is before we deside to plase the phone on the heart
+dan_phone - deffrent phone
+topaz_phone -deffrent phone
+
+topaza_normal - to see why we pick algoritem 15 over the other
+how to take a sample - how did the image was made

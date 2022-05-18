@@ -1,0 +1,16 @@
+Phone version
+# Testing with SIPL phone model Mi A2
+# FHD 1080P, 30fps
+
+Record guidline
+# Each record was taken with 40sec windows
+# No talkings during a record
+# No movements during a record
+# Right hand's finger, at heart's height
+
+DataSet
+# files' names saved as testID_DIA_SYS
+# dataSet's cvs contains further info
+
+Inside the folder "output" you can find all STFT images belongs to the videos in the folder "finish"
+
